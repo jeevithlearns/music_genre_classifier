@@ -88,6 +88,3 @@ This project is a music genre classifier that uses a Convolutional Neural Networ
 * The `spectrogram_dir` variable in the python scripts must be updated to the correct location of your spectrogram images.
 * The python version shown in the image is 3.12, but it is recommended to use python 3.11.
 
-## Author
-
-* [Your Name/GitHub Username]
